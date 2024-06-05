@@ -6,6 +6,8 @@ A strain gauge, with amplifier, where the sensing element is the circuit board i
 
 https://github.com/vapetrov/PCB_strain_gauge/assets/7529600/8c5e6594-8a19-4efe-8d25-b016dfba4ef4
 
+### [View files with KiCanvas!](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fvapetrov%2FPCB_strain_gauge)
+
 ## Manufacturing
 The recommended board thickness is 0.6mm, although it could be made thicker or thinner for different applications. Thinner boards will result in a smaller output voltage swing.
 
